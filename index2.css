@@ -88,8 +88,11 @@ header .navbar-light .navbar-nav .nav-link:hover {
     #skills h1{
       font-size: 2em;
     }
-    #cursos h1, #cursos h4{
+    #cursos h1{
       font-size: 2em;
+    }
+    #cursos h4{
+      font-size: 1.2em;
     }
     #contato h4{
       font-size: 2em;
@@ -109,8 +112,11 @@ header .navbar-light .navbar-nav .nav-link:hover {
   #skills h1{
     font-size: 2.5em;
   }
-  #cursos h1, #cursos h4{
+  #cursos h1{
     font-size: 2.5em;
+  }
+  #cursos h4{
+    font-size: 1.2em;
   }
   #contato h4{
     font-size: 2.5em;
@@ -131,8 +137,11 @@ header .navbar-light .navbar-nav .nav-link:hover {
     #skills h1{
       font-size: 2.8em;
     }
-    #cursos h1, #cursos h4{
+    #cursos h1{
       font-size: 2.8em;
+    }
+    #cursos h4{
+      font-size: 1.7em;
     }
     #contato h4{
       font-size: 2.8em;
@@ -154,8 +163,11 @@ header .navbar-light .navbar-nav .nav-link:hover {
     #skills h1{
       font-size: 3em;
     }
-    #cursos h1, #cursos h4{
+    #cursos h1{
       font-size: 3em;
+    }
+    #cursos h4{
+      font-size: 2em;
     }
     #contato h4{
       font-size: 3em;
@@ -168,19 +180,22 @@ header .navbar-light .navbar-nav .nav-link:hover {
         width: 300px;
     }
     #projetos h4{
-      font-size: 3.5em;
+      font-size: 3em;
     }
     #sobremim h1, #sobremim h4{
-      font-size: 3.5em;
+      font-size: 3em;
     } 
     #skills h1{
-      font-size: 3.5em;
+      font-size: 3em;
     }
-    #cursos h1, #cursos h4{
-      font-size: 3.5em;
+    #cursos h1{
+      font-size: 3em;
+    }
+    #cursos h4{
+      font-size: 2em;
     }
     #contato h4{
-      font-size: 3.5em;
+      font-size: 3em;
     }
  }
 
