@@ -15,8 +15,14 @@ html,body{
     padding: 10px;
 }
 
-
-
+.fa-circle-chevron-left{ /* Btn Prev Carrousel*/
+  color:rgb(255, 255, 255);
+  font-size: 240%;  
+}
+.fa-circle-chevron-right{ /* Btn Prev Carrousel*/
+  color:rgb(255, 255, 255);
+  font-size: 240%;  
+}
 header{
     background-color: #012e3c;
     
